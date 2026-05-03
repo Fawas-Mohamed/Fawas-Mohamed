@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Fawas</h1>
 
-<!--
-**Fawas-Mohamed/Fawas-Mohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/Fawas-Mohamed/Fawas-Mohamed/blob/main/assets/avatar.png" width="120" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛎️ Activity
+
+![GitHub Metrics](./github-metrics.svg)
+
+---
+
+## 📌 Pinned Projects
+
+<table>
+<tr>
+<td>
+
+### Novalanka Ecommerce Website  
+An ecommerce website for a tech store with modern design.
+
+**Tech:** HTML, CSS, JavaScript, PHP
+
+</td>
+<td>
+
+### Corporation File Vault  
+Secure file vault using Python and encryption.
+
+**Tech:** Python
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Contributions
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Fawas-Mohamed&theme=github-dark-blue)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fawas-Mohamed&show_icons=true&theme=github_dark)
