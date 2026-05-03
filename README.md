@@ -18,24 +18,7 @@
 <tr>
 <td>
 
-### Novalanka Ecommerce Website  
-An ecommerce website for a tech store with modern design.
 
-**Tech:** HTML, CSS, JavaScript, PHP
-
-</td>
-<td>
-
-### Corporation File Vault  
-Secure file vault using Python and encryption.
-
-**Tech:** Python
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📊 GitHub Contributions
 
