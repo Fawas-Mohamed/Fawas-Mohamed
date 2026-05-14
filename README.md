@@ -17,7 +17,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/Fawas-Mohamed?style=for-the-badge&color=a855f7&labelColor=0d1117&logo=github&label=TOTAL+STARS)](https://github.com/Fawas-Mohamed)
 
 
-
+</div>
 
 ---
 
