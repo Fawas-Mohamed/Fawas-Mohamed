@@ -115,7 +115,7 @@ Beyond code, I'm deeply interested in **AI tooling**, startup ecosystems, and bu
 
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fawas-Mohamed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6E40C9&text_color=C9D1D9"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fawas-Mohamed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9"/> <br/> <img width="100%" src="https://streak-stats.demolab.com/?user=Fawas-Mohamed&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A855F7&sideLabels=A855F7&dates=8B949E"/> <br/> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fawas-Mohamed&bg_color=0D1117&color=A855F7&line=6E40C9&point=A855F7&area=true&hide_border=true"/> </div>
 
-
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fawas-Mohamed/Fawas-Mohamed/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fawas-Mohamed/Fawas-Mohamed/output/github-contribution-grid-snake.svg" /> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Fawas-Mohamed/Fawas-Mohamed/output/github-contribution-grid-snake.svg" /> </picture> </div>
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--  Profile last updated: 2026 · Built with ❤️ by Mohamed Fawas          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
