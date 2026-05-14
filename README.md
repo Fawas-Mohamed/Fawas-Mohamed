@@ -16,11 +16,6 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/Fawas-Mohamed?style=for-the-badge&color=a855f7&labelColor=0d1117&logo=github&label=TOTAL+STARS)](https://github.com/Fawas-Mohamed)
 
-</div>
-
----
-
-<div align="center">
 
 <a href="https://git.io/typing-svg">
   <img
@@ -165,17 +160,6 @@ I enjoy building projects that solve real-world problems, especially systems rel
 <a href="https://instagram.com/">
   <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
-</div>
-
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fawas-Mohamed/Fawas-Mohamed/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fawas-Mohamed/Fawas-Mohamed/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Fawas-Mohamed/Fawas-Mohamed/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
 
 ---
 
