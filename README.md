@@ -115,7 +115,14 @@ Beyond code, I'm deeply interested in **AI tooling**, startup ecosystems, and bu
 
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fawas-Mohamed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6E40C9&text_color=C9D1D9"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fawas-Mohamed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9"/> <br/> <img width="100%" src="https://streak-stats.demolab.com/?user=Fawas-Mohamed&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A855F7&sideLabels=A855F7&dates=8B949E"/> <br/> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fawas-Mohamed&bg_color=0D1117&color=A855F7&line=6E40C9&point=A855F7&area=true&hide_border=true"/> </div>
 
+
+
+
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fawas-Mohamed/Fawas-Mohamed/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fawas-Mohamed/Fawas-Mohamed/output/github-contribution-grid-snake.svg" /> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Fawas-Mohamed/Fawas-Mohamed/output/github-contribution-grid-snake.svg" /> </picture> </div>
+
+
+
+<div align="center"> <a href="mailto:mohamedfawas205@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Fawas-Mohamed"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://youtube.com/@YOUR-YOUTUBE"> <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> <a href="https://instagram.com/YOUR-INSTAGRAM"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </div>
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--  Profile last updated: 2026 · Built with ❤️ by Mohamed Fawas          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
