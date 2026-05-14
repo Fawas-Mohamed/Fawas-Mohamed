@@ -123,6 +123,16 @@ Beyond code, I'm deeply interested in **AI tooling**, startup ecosystems, and bu
 
 
 <div align="center"> <a href="mailto:mohamedfawas205@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Fawas-Mohamed"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://youtube.com/@YOUR-YOUTUBE"> <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> <a href="https://instagram.com/YOUR-INSTAGRAM"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </div>
+
+
+🌐 Connect With Me
+<div align="center"> <a href="mailto:mohamedfawas205@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Fawas-Mohamed"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://youtube.com/@YOUR-YOUTUBE"> <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> <a href="https://instagram.com/YOUR-INSTAGRAM"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </div>
+<div align="center">
+🚀 Thanks for visiting my profile!
+
+Let’s build something amazing together.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6E40C9,100:A855F7&height=120&section=footer&animation=twinkling" width="100%" /> </div> ```
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--  Profile last updated: 2026 · Built with ❤️ by Mohamed Fawas          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
