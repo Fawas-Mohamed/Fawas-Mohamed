@@ -18,7 +18,14 @@
 <!-- ── ANIMATED TYPING SVG HERO ───────────────────────────────────────── -->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&height=80&lines=Software+Engineering+Undergraduate+🎓;Full-Stack+Developer;Flutter+%26+React+Developer;AI+Enthusiast)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&height=90&lines=Software+Engineering+Undergraduate+%F0%9F%8E%93;Full-Stack+Developer;Flutter+%26+React+Developer;AI+Enthusiast"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
 <!-- ── SUBTITLE ──────────────────────────────────────────────────────────── -->
 
