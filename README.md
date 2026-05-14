@@ -47,27 +47,6 @@ focus: Full-Stack Development, Mobile Apps, AI Tools
 
 ---
 
-<h2 align="center">💻 Terminal Intro</h2>
-
-```bash
-> whoami
-Mohamed Fawas
-
-> role
-Software Engineering Undergraduate
-
-> specialization
-Full-Stack Development & Mobile Apps
-
-> tech_stack
-Flutter • React • ASP.NET Core • Firebase
-
-> currently_building
-NexVolt EV Platform & ZmartPOS
-```
-
----
-
 <h2 align="center">🧑‍💻 About Me</h2>
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/Fawas-Mohamed/Fawas-Mohamed/main/assets/dev-animation.gif"/>
@@ -78,12 +57,12 @@ I work with **Flutter, React, ASP.NET Core, Firebase, SQL Server, and modern AI 
 
 I enjoy building projects that solve real-world problems, especially systems related to:
 
-* 🔋 EV Charging Systems
-* 🛒 POS & Business Platforms
-* 🤖 AI-Powered Applications
-* 📱 Mobile App Development
-* 🌐 Modern Web Applications
-* ⚡ Real-Time Systems
+* Fuel Management System
+* Real Time Aution Mnagement System
+* AI-Powered Applications
+* Mobile App Development
+* Modern Web Applications
+* Real-Time Systems
 
 ### 🌱 Currently Learning
 
@@ -146,46 +125,6 @@ I enjoy building projects that solve real-world problems, especially systems rel
 
 ---
 
-<h2 align="center">🎯 Current Focus</h2>
-
-```javascript
-const mohamedFawas = {
-  currentlyBuilding: [
-    "NexVolt EV Charging App",
-    "ZmartPOS",
-    "Portfolio Website",
-    "AI-Powered Automation Tools"
-  ],
-
-  learning: [
-    "System Design",
-    "Cloud Architecture",
-    "AI Agents",
-    "LLM Integrations"
-  ],
-
-  openTo: [
-    "Internships",
-    "Freelance Projects",
-    "Open Source Collaboration"
-  ]
-};
-```
-
----
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-| Project                        | Description                                                                                                        | Tech Stack                         |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------- |
-| 🔋 **NexVolt EV Charging App** | EV charging station platform with trip planning, charging station discovery, booking, and Google Maps integration. | Flutter, Firebase, Google Maps API |
-| 🛒 **ZmartPOS**                | Smart Point-of-Sale system for inventory management, billing, analytics, and retail automation.                    | React, ASP.NET Core, SQL Server    |
-| 🌐 **Fawas Business Website**  | Business showcase website with WhatsApp ordering, responsive UI, and admin management.                             | React, Laravel, MySQL              |
-| 🤖 **AI Expense Tracker**      | Expense tracking app with AI-powered categorization and smart finance insights.                                    | React, Node.js, MongoDB            |
-| 🔐 **Corporation File Vault**  | Secure file storage and management system with role-based authentication.                                          | ASP.NET Core, SQL Server           |
-| 💻 **Portfolio Website**       | Modern personal portfolio with animations, project showcase, and responsive design.                                | React, TailwindCSS                 |
-
----
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -207,45 +146,11 @@ const mohamedFawas = {
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fawas-Mohamed\&theme=tokyonight\&no-frame=true\&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<h2 align="center">🌟 Achievements</h2>
-
-* 🎓 Software Engineering Undergraduate at NSBM Green University
-* 🔋 Built EV Charging Platform Features using Flutter & Firebase
-* 📱 Developed real-time mobile applications
-* 🌐 Built modern React-based interfaces
-* ⚡ Integrated APIs & real-time systems
-* 🤖 Exploring AI-powered solutions and automation tools
-* 🚀 Continuously improving projects and developer skills
-
----
-
-<h2 align="center">📜 Certifications & Events</h2>
-
-| Certification / Event         | Organization          |
-| ----------------------------- | --------------------- |
-| AWS AI & ML Scholars Program  | AWS                   |
-| DevTown Certifications        | DevTown               |
-| GitHub Copilot Dev Days       | GitHub                |
-| TechTalk 2026                 | Tech Community        |
-| Software Engineering Projects | NSBM Green University |
-
----
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
 
-<a href="mailto:mohamedfawas205@gmail.com">
+<a href="mailto:mohammedfawasfareed@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -264,11 +169,6 @@ const mohamedFawas = {
 </div>
 
 ---
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fawas-Mohamed/Fawas-Mohamed/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fawas-Mohamed/Fawas-Mohamed/output/github-contribution-grid-snake.svg" />
@@ -298,4 +198,4 @@ const mohamedFawas = {
 ### 🚀 Let’s build something amazing together.
 
 </div>
-```
+
