@@ -17,14 +17,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/Fawas-Mohamed?style=for-the-badge&color=a855f7&labelColor=0d1117&logo=github&label=TOTAL+STARS)](https://github.com/Fawas-Mohamed)
 
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&height=90&lines=Software+Engineering+Undergraduate+🎓;Full-Stack+Developer;Flutter+%26+React+Developer;ASP.NET+Core+Developer;AI+Enthusiast;Building+Scalable+Digital+Products"
-    alt="Typing SVG"
-  />
-</a>
 
-</div>
 
 ---
 
